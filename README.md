@@ -5,7 +5,7 @@ On the application's landing page we have a brief description of what the applic
 
 ## Live link
 
-Visit the application on https://felkiriinya.github.io/GitGoogle/home
+Visit the application on 
 
 ## Figma Link
 
