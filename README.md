@@ -32,3 +32,7 @@ To make advancements/modifications, follow these steps:
 
 This project was generated with [Angular CLI]
 The technologies used are HTML, CSS, Typescript and Bootstrap.
+
+## Support and contact details
+
+Should you be unable to access the website, have any recommendations and/or questions, feel free to email me: gero.temitayo33@gmail.com
