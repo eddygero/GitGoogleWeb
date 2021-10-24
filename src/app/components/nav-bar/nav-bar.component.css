@@ -1,0 +1,32 @@
+.navbar {
+    justify-content: space-between;
+    background-color: #201e1e;
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 1%;
+  }
+  a {
+    font-size: 1rem;
+    cursor: pointer;
+    padding-right: 1rem;
+    text-decoration: none;
+    color: white;
+  }
+   
+  .links {
+    display: flex;
+  }
+  
+  ::placeholder{
+      font-size: 0.9rem;
+      
+  }
+  
+.input-group-append button:hover {
+    background-color: transparent;
+  }
+  
+  .input-group-append button {
+    border-color: white;
+  }
+  
