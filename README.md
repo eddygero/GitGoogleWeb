@@ -26,3 +26,9 @@ To make advancements/modifications, follow these steps:
 - Commit your changes (`git commit -am 'Improve feature'`)
 - Push to the branch (`git push origin improve-feature`)
 - Create a Pull Request 
+
+
+## Technologies Used
+
+This project was generated with [Angular CLI]
+The technologies used are HTML, CSS, Typescript and Bootstrap.
