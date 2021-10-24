@@ -38,3 +38,7 @@
     color: #3f51b5;
     font-weight: bold;
   }
+  .container-fluid {
+
+    background-image:url(https://images.pexels.com/photos/4194842/pexels-photo-4194842.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  }
