@@ -19,10 +19,10 @@ repos:Repositories[];
 
   ngOnInit(){
 
-    this.searchGitService.userInfoRequest("felkiriinya")
+    this.searchGitService.userInfoRequest("eddygero")
     this.user = this.searchGitService.user
 
-    this.searchGitService.userRepoRequest("felkiriinya")
+    this.searchGitService.userRepoRequest("eddygero")
     this.repos = this.searchGitService.repos
   }
 
