@@ -38,3 +38,5 @@ The technologies used are HTML, CSS, Typescript and Bootstrap.
 Should you be unable to access the website, have any recommendations and/or questions, feel free to email me: gero.temitayo33@gmail.com
 
 ## [License]
+
+Copyright (c) 2020 [Edward Gero](https://github.com/eddygero)  
