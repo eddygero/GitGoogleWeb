@@ -9,8 +9,13 @@ On the application's landing page, we have a navigation bar and a brief definiti
 
 ![landing](src/assets/images/landing.png)
 
+
+
 ## Live link
 Visit the application on https:
+
+#### Making modifications
+
 
 To make advancements/modifications, follow these steps:
 
