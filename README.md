@@ -7,9 +7,6 @@ On the application's landing page we have a brief description of what the applic
 
 Visit the application on 
 
-## Figma Link
-
-This is the link to my [figma](https://www.figma.com/file/NpUH2PxJMCGDT8F5Ca3f7i/Github-Search?node-id=0%3A1) design 
 
 ## Development
 
