@@ -12,7 +12,7 @@ On the application's landing page, we have a navigation bar and a brief definiti
 
 
 ## Live link
-Visit the application on https:
+Visit the application on https:https://eddygero.github.io/GitGoogleWeb/
 
 #### Making modifications
 
